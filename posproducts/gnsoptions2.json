@@ -1,0 +1,26 @@
+[
+{
+"id":51,
+"name": "burger size 1.5",
+"values":[{"id":1,"name":"12oz","price":1.5},{"id":2,"name":"6oz","price":0}]
+},
+
+
+{
+"id":52,
+"name": "Chicken Patty 1",
+"values":[{"id":1,"name":"Double","price":1},{"id":2,"name":"Single","price":0}]
+},
+
+{
+"id":53,
+"name": "Chicken Patty 2",
+"values":[{"id":1,"name":"Double","price":2},{"id":2,"name":"Single","price":0}]
+},
+
+{
+"id":54,
+"name": "Dessert Choice",
+"values":[{"id":1,"name":"Waffle","price":0},{"id":2,"name":"Crepe","price":0}]
+}
+]
